@@ -20,12 +20,18 @@ RFM analysis is a marketing technique used to quantitatively rank and group cust
 # Frequency: How frequent is the customer in ordering/buying some product from us
 # Monetary: How much does the customer spend on purchasing products from us
 
-#Rating Customer based upon the RFM score
+#Rating Customer based upon the RFM score:
+
 rfm score >4.5 : Top Customer
+
 4.5 > rfm score > 4 : High Value Customer
+
 4>rfm score >3 : Medium value customer
+
 3>rfm score>1.6 : Low-value customer
+
 rfm score<1.6 :Lost Customer
+
 
 # Results:
 A pie plot has been displayed for all segments of customers.
