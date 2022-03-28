@@ -1,10 +1,9 @@
 # Customer-Segmentation-with-RFM-Analysis
 In this article, we are going to see Recency, Frequency, Monetary value analysis using Python.
-Segmentation using K-Means Clustering Algorithm
 Suppose that we have a company that deals in various products and we want to divide customers into different segments, like high-value customers, medium value customers or low-value customers, and similarly many others. We have the data that can we analyze, but what kind of analysis that we can do?
 
 Well, we can segment customers based on their buying behaviour on the market.
-Keep in mind that the data is really huge, and we can not analyze it by just looking at an overiew of it. Here we will discuss how to cluster customers on segments based on their behaviour using the RFM Analysis in Python.
+Keep in mind that the data is really huge, and we can not analyze it by just looking at an overiew of it. Here we will discuss how to segment customers based on their behaviour using the RFM Analysis in Python.
 
 # Steps of Analysis:
 We will perform this analysis in the following steps:
